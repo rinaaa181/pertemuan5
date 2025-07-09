@@ -1,1 +1,1 @@
-![gambar][./p5.jpg]
+![gambar](./p5.jpg)
